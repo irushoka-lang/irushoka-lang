@@ -38,17 +38,6 @@ I'm especially interested in how data can help translate the lived experiences o
 
 ✅ GIS and spatial analysis skills
 
-### Research Interests
-
-I am particularly interested in exploring the relationship between:
-
-- Gender-based violence prevention and support services
-- Poverty reduction programs
-- Predictive modeling and public service delivery
-- Citizen Generated data  for governments and international organizations
-- Responsible and equitable AI governance
-
-
 ## Policy Areas of Expertise
 
 I aim to develop deep expertise in:
