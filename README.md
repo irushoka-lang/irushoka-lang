@@ -12,7 +12,7 @@
 
 My name is Kampe, a Rwandan Canadian feminist passionate about using data to advance human rights and social justice. I've had the opportunity to work with mission-driven organizations in Rwanda, Spain, and the United States, helping use data, research, and evaluation to strengthen their programming and decision-making.
 
-I’m a policy generalist interested in the methodologies behind data analysis and how evidence can inform better policy. I’m particularly motivated by translating the lived experiences of marginalized communities into actionable policy solutions through rigorous research and data analytics. Across areas such as gender policy, social policy and poverty reduction, international development, and AI and data governance, I’m interested in using quantitative methods to create equitable, evidence-informed policies.
+Interested in the methodologies behind data analysis and how evidence can inform better policy, I consider myself a policy generalist. I’m particularly motivated by translating the lived experiences of marginalized communities into actionable policy solutions through rigorous research and data analytics. Across areas such as gender policy, social policy and poverty reduction, international development, and AI and data governance, I’m interested in using quantitative methods to create equitable, evidence-informed policies.
 
 ### Technical Skills
 
@@ -27,7 +27,9 @@ I’m a policy generalist interested in the methodologies behind data analysis a
 - Python visualizations
 - Interactive dashboards
 
-✅ GIS and spatial analysis skills
+✅ Spatial analysis skills
+- ArcGIS
+- R
 
 ## Policy Areas of Expertise
 
