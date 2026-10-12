@@ -17,14 +17,13 @@ Interested in the methodologies behind data analysis and how evidence can inform
 ### Technical Skills
 
 ✅ Strong data cleaning, manipulation, regression analysis and visualisations: 
-- R
-- Python
+- R (Tidyverse, dplyr, ggplot2) 
+- Python (Pandas, Matplotlib)
 - SQL
 
 ✅ Data visualisations and storytelling through:
 - Tableau
-- R visualizations
-- Python visualizations
+- Data visualization with ggplot2 and Matplotlib
 - Interactive dashboards
 
 ✅ Spatial analysis skills
