@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kampe Rushoka
+# Kampe Rushoka : *"Data is my language. Human rights are my message."*
 
 🎓 Master of Science in Public Policy and Management (Data Analytics) Candidate at Carnegie Mellon University Heinz College (Expected May 2028)
 
@@ -10,27 +10,18 @@
 
 ## About Me
 
-I'm Kampe, a Rwandan feminist passionate about using data to advance human rights and social justice. I've had the opportunity to work with mission-driven organizations in Rwanda, Spain, and the United States, helping use data, research, and evaluation to strengthen programs and inform decision-making.
+My name is Kampe, a Rwandan Canadian feminist passionate about using data to advance human rights and social justice. I've had the opportunity to work with mission-driven organizations in Rwanda, Spain, and the United States, helping use data, research, and evaluation to strengthen their programming and decision-making.
 
-I'm especially interested in how data can help translate the lived experiences of marginalized communities into actionable policy solutions. Whether it's gender equality, poverty reduction, international development, or AI and data governance, I'm excited about using evidence and analytics to better understand complex problems and contribute to more equitable policies.
-
-## What I'm Currently Learning
-
-- Python for data analysis and machine learning
-- SQL and database management
-- Dashboard design
-- GIS and spatial analysis
-- Policy economics
-- Practical experience applying machine learning methods to policy questions
+I’m a policy generalist interested in the methodologies behind data analysis and how evidence can inform better policy. I’m particularly motivated by translating the lived experiences of marginalized communities into actionable policy solutions through rigorous research and data analytics. Across areas such as gender policy, social policy and poverty reduction, international development, and AI and data governance, I’m interested in using quantitative methods to create equitable, evidence-informed policies.
 
 ### Technical Skills
 
-✅ Strong data cleaning, manipulation, and analysis in:
+✅ Strong data cleaning, manipulation, regression analysis and visualisations: 
 - R
 - Python
 - SQL
 
-✅ Data storytelling through:
+✅ Data visualisations and storytelling through:
 - Tableau
 - R visualizations
 - Python visualizations
@@ -40,21 +31,19 @@ I'm especially interested in how data can help translate the lived experiences o
 
 ## Policy Areas of Expertise
 
-I aim to develop deep expertise in:
-
-- Gender Policy and Statistics. 
-- Sustainable Development Goals (SDGs)
-- International Development
-- Poverty Reduction
+- Gender Policy and Gender Statistics.
+- Social Policy: Housing Policy and Poverty Reduction
+- Sustainable Development Goals (SDGs) and International Development
 - AI and Data Governance
+
+## What I'm Currently Learning
+- SQL and database management
+- Dashboard design in Tableau 
+- GIS and spatial analysis
+- Policy economics
+- Practical experience applying machine learning methods to policy questions
 
 
 ## Connect With Me
 
-💼 LinkedIn: [Add your LinkedIn URL here]
-
-📧 Email: krushoka@andrew.cmu.edu
-
----
-
-*"Data is my language. Human rights are my message."*
+💼 LinkedIn: www.linkedin.com/in/kampe-rushoka
