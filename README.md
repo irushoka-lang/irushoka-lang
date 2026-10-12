@@ -16,15 +16,15 @@ Interested in the methodologies behind data analysis and how evidence can inform
 
 ### Past Projects
 
-Here are some of the projects I've worked: 
+Here are some of the projects I've worked on: 
 
-Project 1: Longitudinal Mental Health Analysis. Using Mixed Effects Modeling. 
-Project 2: Habitat for Humanity State House Tax Credit Data Analysis. 
-Project 3: Gender Based Violence Reporting to informal reporting patterns
-Project 4: War time sexual violence
-Project 5: Evaluating California Prisons 
-Project 6: STAT 112
-Project 7: 2019 - 2025 Inclusionary Zoning policy evaluation in Pittsburgh. Using Diff in Diff regression analysis. 
+- Project 1: Longitudinal Mental Health Analysis. Using Mixed Effects Modeling. 
+- Project 2: Habitat for Humanity State House Tax Credit Data Analysis. 
+- Project 3: Gender Based Violence Reporting to informal reporting patterns
+- Project 4: War time sexual violence
+- Project 5: Evaluating California Prisons 
+- Project 6: STAT 112
+- Project 7: 2019 - 2025 Inclusionary Zoning policy evaluation in Pittsburgh. Using Diff in Diff regression analysis. 
 
 ## Technical Skills
 
