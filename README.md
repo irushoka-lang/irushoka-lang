@@ -1,4 +1,4 @@
-# Hi there, I'm Kampe Rushoka 
+# Hi there, I'm Kampe Rushoka!
 
 🎓 Master of Science in Public Policy and Management (Data Analytics) Candidate at Carnegie Mellon University Heinz College (Expected May 2028)
 
