@@ -1,4 +1,4 @@
-# Kampe Rushoka : *"Data is my language. Human rights are my message."*
+# Kampe Rushoka 
 
 🎓 Master of Science in Public Policy and Management (Data Analytics) Candidate at Carnegie Mellon University Heinz College (Expected May 2028)
 
@@ -6,7 +6,7 @@
 
 🌍 Rwandan-Canadian | Phi Beta Kappa | Statistics & Political Science Graduate
 
-💡 My tool is data. My message is human rights.
+💡 Making data my language. Human rights are my message.
 
 ## About Me
 
