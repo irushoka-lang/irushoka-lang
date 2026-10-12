@@ -14,21 +14,24 @@ My name is Kampe, a Rwandan Canadian feminist passionate about using data to adv
 
 Interested in the methodologies behind data analysis and how evidence can inform better policy, I consider myself a policy generalist. I’m particularly motivated by translating the lived experiences of marginalized communities into actionable policy solutions through rigorous research and data analytics. Across areas such as gender policy, social policy and poverty reduction, international development, and AI and data governance, I’m interested in using quantitative methods to create equitable, evidence-informed policies.
 
-### Technical Skills
+### Past Projects
 
-✅ Strong data cleaning, manipulation, regression analysis and visualisations: 
-- R (Tidyverse, dplyr, ggplot2) 
-- Python (Pandas, Matplotlib)
-- SQL
+Here are some of the projects I've worked: 
 
-✅ Data visualisations and storytelling through:
-- Tableau
-- Data visualization with ggplot2 and Matplotlib
-- Interactive dashboards
+Project 1: Longitudinal Mental Health Analysis. Using Mixed Effects Modeling. 
+Project 2: Habitat for Humanity State House Tax Credit Data Analysis. 
+Project 3: Gender Based Violence Reporting to informal reporting patterns
+Project 4: War time sexual violence
+Project 5: Evaluating California Prisons 
+Project 6: STAT 112
+Project 7: 2019 - 2025 Inclusionary Zoning policy evaluation in Pittsburgh. Using Diff in Diff regression analysis. 
 
-✅ Spatial analysis skills
-- ArcGIS
-- R
+## Technical Skills
+
+- Languages: R, Python, SQL
+- Data Analysis: Data cleaning, regression analysis, statistical methods
+- Data Visualization: ggplot2, Matplotlib, Tableau, interactive dashboards
+- Spatial Analysis: ArcGIS, spatial analysis in R and Python
 
 ## Policy Areas of Expertise
 
